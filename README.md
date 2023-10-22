@@ -1,4 +1,4 @@
-# Steven-Seagal-s-Sniper-Special-Opps-The-Game
+# Steven-Seagal-s-Battle-Arena
 
 A unity project featuring Steven Seagal.... For some reason.
 
